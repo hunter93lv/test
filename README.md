@@ -1,19 +1,3 @@
-.. include:: ../disclaimer-zh_CN.rst
-
-:Original: :ref:`Documentation/process/coding-style.rst <codingstyle>`
-
-.. _cn_codingstyle:
-
-译者::
-
-  中文版维护者： 张乐 Zhang Le <r0bertz@gentoo.org>
-  中文版翻译者： 张乐 Zhang Le <r0bertz@gentoo.org>
-  中文版校译者： 王聪 Wang Cong <xiyou.wangcong@gmail.com>
-                 wheelz <kernel.zeng@gmail.com>
-                 管旭东 Xudong Guan <xudong.guan@gmail.com>
-                 Li Zefan <lizf@cn.fujitsu.com>
-                 Wang Chen <wangchen@cn.fujitsu.com>
-
 Linux 内核代码风格
 =========================
 
